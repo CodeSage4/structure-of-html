@@ -6,19 +6,22 @@ there are two types of lists ordered and unordered
 ordered list
 </h2>
 this list is numbered as shown below
-<l>python</l>
-<l>R</l>
-<l>C</l>
-<l>C++</l>
-<l>javascript</l>
-
+<l>
+<li>python</li>
+<li>R</li>
+<li>C</li>
+<li>C++</li>
+<li>javascript</li>
+</l>
 <h2>
 unordered list
 </h2>
 this list is bulleted as shown below
-<ul>python</ul>
-<ul>R</ul>
-<ul>C</ul>
-<ul>C++</ul>
-<ul>javascript</ul>
-
+<ul>
+  <li>python</li>
+<li>R</li>
+<li>C</li>
+<li>C++</li>
+<li>javascript</li>
+</ul>
+</html>
