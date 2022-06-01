@@ -7,7 +7,7 @@ here I will be sharing the basic structure of html for begginers
 
 
 
-#<!DOCTYPE html>
+
 <html>
 
 <head>
