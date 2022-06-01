@@ -1,3 +1,5 @@
+<html>
+
 <h1>
 Types of lists
 </h1>
@@ -6,7 +8,7 @@ there are two types of lists ordered and unordered
 ordered list
 </h2>
 this list is numbered as shown below
-<l>
+  <l>
 <li>python</li>
 <li>R</li>
 <li>C</li>
@@ -18,6 +20,15 @@ unordered list
 </h2>
 this list is bulleted as shown below
 <ul>
+  <li>python</li>
+<li>R</li>
+<li>C</li>
+<li>C++</li>
+<li>javascript</li>
+</ul>
+
+to change the shape of the bullets use (ul type ="name of the shape")
+<ul type="circle">
   <li>python</li>
 <li>R</li>
 <li>C</li>
