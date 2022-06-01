@@ -1,0 +1,24 @@
+<h1>
+Types of lists
+</h1>
+there are two types of lists ordered and unordered
+<h2>
+ordered list
+</h2>
+this list is numbered as shown below
+<l>python</l>
+<l>R</l>
+<l>C</l>
+<l>C++</l>
+<l>javascript</l>
+
+<h2>
+unordered list
+</h2>
+this list is bulleted as shown below
+<ul>python</ul>
+<ul>R</ul>
+<ul>C</ul>
+<ul>C++</ul>
+<ul>javascript</ul>
+
