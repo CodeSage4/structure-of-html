@@ -7,7 +7,7 @@ here I will be sharing the basic structure of html for begginers
 
 
 
-<!DOCTYPE html>
+'''<!DOCTYPE html>
 <html>
 
 <head>
@@ -48,3 +48,4 @@ Arguments, counter-arguments, and insults will keep pouring into and out of the 
 </body>
 
 </html>
+'''
