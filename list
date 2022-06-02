@@ -8,13 +8,13 @@ there are two types of lists ordered and unordered
 ordered list
 </h2>
 this list is numbered as shown below
-  <l>
+  <ol>
 <li>python</li>
 <li>R</li>
 <li>C</li>
 <li>C++</li>
 <li>javascript</li>
-</l>
+</ol>
 <h2>
 unordered list
 </h2>
