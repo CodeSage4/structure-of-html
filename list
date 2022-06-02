@@ -15,6 +15,28 @@ this list is numbered as shown below
 <li>C++</li>
 <li>javascript</li>
 </ol>
+
+<ol type="a" start="10"><!-- for starting a list numbering from 10 instead of 1 we can use "start"-->
+<li>python</li>
+<li>R</li>
+<li>C
+ 
+ <p>
+ here you can also add para and a nested list inside list item tag ("li" tag)
+ <\p>
+ 
+ <ul>
+ <li>music<\li>
+ <li>graphics<\li>
+ <li>chess<\li>
+ 
+ <\ul>
+ 
+ </li>
+<li>C++</li>
+<li>javascript</li>
+</ol>
+
 <h2>
 unordered list
 </h2>
