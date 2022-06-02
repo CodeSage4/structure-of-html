@@ -23,7 +23,7 @@ this list is numbered as shown below
  
  <p>
  here you can also add para and a nested list inside list item tag ("li" tag)
- <\p>
+ </p>
  
  <ul>
  <li>music<\li>
