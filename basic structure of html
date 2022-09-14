@@ -34,7 +34,25 @@ Arguments, counter-arguments, and insults will keep pouring into and out of the 
   The question is: why?
 </p>
 
-  
+<b> bold </b>
+
+<i> italic </i>
+
+<u> underline </u>
+
+<br/>   <!-- another way to create a break tag also it is a single tag unlike container tag-->
+
+<hr/> <!-- horzontal line-->
+
+<big> big tag </big>
+<small> small tag </small>
+
+H<sub> 2 subscript tag </sub>O
+
+<sup> superscript tag </sup>
+
+
+
 </body>
 
 </html>
