@@ -1,0 +1,15 @@
+<body>
+
+<a href="https://www.google.com" >
+  <h1>Google Homepage :) </h1>
+  </a>
+  
+<a href="https://www.google.com" target="_blank">
+  <h1>Google Homepage v2 click here to open the link :)
+  this opens link in a new tab </h1>
+  </a>
+  
+  
+<a href="page.html" >page2 in case the file named "page2.html" is in the same path as the index file
+</a>
+</body>
