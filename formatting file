@@ -2,12 +2,41 @@
 
 <header>
 this will apeear at the top of the web page
+
+  <nav>
+    
+  </nav>
 </header>
 
 
 <main>
 
 the main part of the file
+
+  <article>
+    <section>
+    
+    we can use header tags in the following manner as in hierarchial manner
+    
+    h1
+      h2
+        h3
+      h2
+        
+      
+    </section>
+      <aside>
+        can be used for ads
+        
+        this keeps aside the content from our main content file
+      </aside>
+    
+      
+    <section>
+    
+    </section>
+    
+  </article>
 </main>
 
 <footer>
