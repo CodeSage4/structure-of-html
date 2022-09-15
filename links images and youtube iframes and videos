@@ -9,7 +9,42 @@
   this opens link in a new tab </h1>
   </a>
   
+
   
-<a href="page.html" >page2 in case the file named "page2.html" is in the same path as the index file
+<a href="page2.html" > page2 in case the file named "page2.html" is in the same path as the index file
 </a>
+
+<a href="folder/page3.html" >page2 in case the file named "page3.html" is in the same path as the index file but inside a folder so we gotta show the relative address
+</a>
+
+<h3> now for images!</h3>
+
+<a href="photo.jpg" > inserts a file even an img
+</a>
+
+<img src="https://i.quotev.com/img/q/u/17/8/9/mzwqfcuxxa.jpg" alt='illustration of Madara Uchiha'/>
+<img src="photo.jpg" alt ="photo desc"/>
+<img width='100' height='100' src="photo.jpg" alt ="photo desc"/>
+<img width='100' src="photo.jpg" alt ="photo desc"/>  <!- it automatically takes care of the other factor-->
+
+<h3> now it's video time</h3>
+
+<video src="video.mp4"> if the video cant be played shows this text
+</video>
+<video src="video.mp4" controls> basic desc
+the catch is without controls command you cannot play the video
+</video>
+
+<video src="video.mp4" controls width='500'> we have changed the width of the video hence it take cares of the height itself
+</video>
+
+<video src="video.mp4" poster="thumbnail.jpg" controls width='500'> we added the thumbnail to the video </video>
+
+<video src="video.mp4" poster="thumbnail.jpg" loop controls width='500' autoplay> autoplay on  and loop on </video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQN-pnXPaVg?start=4914" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p> i have just added a youtube video using embed option found in share option
+</p>
+
+
 </body>
