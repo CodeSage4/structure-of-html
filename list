@@ -57,4 +57,14 @@ to change the shape of the bullets use (ul type ="name of the shape")
 <li>C++</li>
 <li>javascript</li>
 </ul>
+
+
+desc list 
+they have desc term and it's desc
+<dl>
+<dt>Apples</dt>
+  <dd>-they are red in color</dd>
+  </dl>
+  
+</dl>
 </html>
